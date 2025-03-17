@@ -2,11 +2,11 @@
 
 👩🏽‍💻 Web developer sharing my tech journey
 <br>
-👩🏽‍🎓 Studying **<a href="https://medieinstitutet.se/utbildningar/webbutvecklare-inom-e-handel/" style="color: #ffd9dfff;">Web Development</a>** at Medieinstitutet, Stockholm, Sweden | Graduating May 2026 
+👩🏽‍🎓 Studying **<a href="https://medieinstitutet.se/utbildningar/webbutvecklare-inom-e-handel/" style="color: #ffd9dfff;">Web Development</a>** at Medieinstitutet, Stockholm, Sweden | *Graduating May 2026*
 <br>
- 💭 I'm currently expanding my knowledge in backend development - **<a href="https://github.com/malinjansson/Auctionhouse" style="background-color: #ffeceeff; color: #924759ff;">My latest project</a>**
+ 💭 I'm currently expanding my knowledge in backend development - ***<a href="https://github.com/malinjansson/Auctionhouse" style="background-color: #ffeceeff; color: #924759ff;">My latest project!</a>***
 <br>
-🪐 I look forward to growing as a web developer and to building modern, scalable, and user-friendly applications.
+🪐 I'm curious to learn more about tech, to build modern, scalable, and user-friendly applications and grow as a developer. 
 
 
 ## 🖥️ Tech Stack
